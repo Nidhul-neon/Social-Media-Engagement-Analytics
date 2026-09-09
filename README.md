@@ -98,5 +98,5 @@ Visualizations were created using Matplotlib, Seaborn, and Plotly, including:
 
 ## Project Files
 
-- `Social_Media_Engagement_Analytics.ipynb` — Complete Jupyter Notebook containing the analysis and visualizations.
+- `Module-end Python DA assignment.ipynb` — Complete Jupyter Notebook containing the analysis and visualizations.
 - `social_media_engagement_5000.csv` — Dataset used for the analysis.
